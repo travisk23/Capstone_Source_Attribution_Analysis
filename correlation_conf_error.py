@@ -8,7 +8,7 @@ Indiana Unviersity CAPSTONE
 
 
 The code below describes the process of data extraction from a .csv source to a dataframe. 
-The data is being categorized into a dataframe. Once the data is in place I needed to create varibales and arrays from this data.
+The data is being categorized into a dataframe. Once the data is in place I needed to create variables and arrays from this data.
 To do this several columns of data needed to be cleaned due to errors in data acquistions ffromt eh data source.
 Once data was cleaned and reassigned, error rates were calculated and placaed in a correlational analysis against partipant 
 confidence rating. This revealed a negative correlation between the two categories.
