@@ -1,5 +1,5 @@
 # Capstone_Source_Attribution_Analysis
-PORTFOLIO SUBMISSION: Capstone project for Indiana University that provides correlation analysis of source attribution errors. Please review the file Correlational_Analysis_Report to see the report that describes this portfolio submission.
+PORTFOLIO SUBMISSION: Capstone project for Indiana University that provides correlation analysis of source attribution errors. Please review the file Correlation_Analysis_Report to see the report that describes this portfolio submission.
 
 The data for this study was obtained from the following site https://osf.io/tnymk/
 
