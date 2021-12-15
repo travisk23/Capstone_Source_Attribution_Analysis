@@ -74,7 +74,7 @@ all_data["confidence"]= conf
 data_dict = {"Prt_Id": prt_id, "Trial_Cond": trial_conds, "Choice": choices, "confidence": conf}
 data_df = pd.DataFrame(data_dict)
 
-# Once we have all of our neccesary values, we can bgein to calaculate the data for our correlation analysis
+# Once we have all of our neccesary values, we can begin to calculate the data for our correlation analysis
 error_df = pd.DataFrame(None, index = range(n_prts), columns = ["Prt_Id", "Error_Rate", "Confidence"] )
 
 # Below I am looping through each particpant's data within the data frame
